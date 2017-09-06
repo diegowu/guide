@@ -1,0 +1,401 @@
+export default [{
+    "rate": "8.4",
+    "cover_x": 802,
+    "title": "河神",
+    "url": "https://movie.douban.com/subject/26776350/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2492172704.webp",
+    "id": "26776350",
+    "cover_y": 1200,
+    "is_new": false
+}, {
+    "rate": "8.4",
+    "cover_x": 667,
+    "title": "那年花开月正圆",
+    "url": "https://movie.douban.com/subject/26801052/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2496995622.webp",
+    "id": "26801052",
+    "cover_y": 950,
+    "is_new": true
+}, {
+    "rate": "7.1",
+    "cover_x": 2048,
+    "title": "伊藤君A到E",
+    "url": "https://movie.douban.com/subject/27083751/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2486116847.webp",
+    "id": "27083751",
+    "cover_y": 1447,
+    "is_new": true
+}, {
+    "rate": "8.5",
+    "cover_x": 600,
+    "title": "零零后",
+    "url": "https://movie.douban.com/subject/27119538/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2497113858.webp",
+    "id": "27119538",
+    "cover_y": 928,
+    "is_new": true
+}, {
+    "rate": "9.4",
+    "cover_x": 2700,
+    "title": "权力的游戏 第七季",
+    "url": "https://movie.douban.com/subject/26235354/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2462245619.webp",
+    "id": "26235354",
+    "cover_y": 4000,
+    "is_new": false
+}, {
+    "rate": "9.0",
+    "cover_x": 1200,
+    "title": "白夜追凶",
+    "url": "https://movie.douban.com/subject/26883064/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2496078449.webp",
+    "id": "26883064",
+    "cover_y": 2134,
+    "is_new": true
+}, {
+    "rate": "7.2",
+    "cover_x": 571,
+    "title": "无心法师2",
+    "url": "https://movie.douban.com/subject/26608206/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2486285705.webp",
+    "id": "26608206",
+    "cover_y": 800,
+    "is_new": false
+}, {
+    "rate": "8.4",
+    "cover_x": 580,
+    "title": "黑皮记事本",
+    "url": "https://movie.douban.com/subject/27046252/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2488543410.webp",
+    "id": "27046252",
+    "cover_y": 758,
+    "is_new": false
+}, {
+    "rate": "6.6",
+    "cover_x": 828,
+    "title": "春风十里，不如你",
+    "url": "https://movie.douban.com/subject/26861629/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2491353178.webp",
+    "id": "26861629",
+    "cover_y": 1472,
+    "is_new": false
+}, {
+    "rate": "9.6",
+    "cover_x": 1701,
+    "title": "请回答1988",
+    "url": "https://movie.douban.com/subject/26302614/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2272563445.webp",
+    "id": "26302614",
+    "cover_y": 2410,
+    "is_new": false
+}, {
+    "rate": "7.8",
+    "cover_x": 690,
+    "title": "颤抖吧，阿部！",
+    "url": "https://movie.douban.com/subject/26895367/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2399266951.webp",
+    "id": "26895367",
+    "cover_y": 1035,
+    "is_new": false
+}, {
+    "rate": "9.3",
+    "cover_x": 800,
+    "title": "秘密森林",
+    "url": "https://movie.douban.com/subject/26934346/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2460119184.webp",
+    "id": "26934346",
+    "cover_y": 1157,
+    "is_new": false
+}, {
+    "rate": "5.4",
+    "cover_x": 3943,
+    "title": "秦时丽人明月心",
+    "url": "https://movie.douban.com/subject/26924742/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2495352977.webp",
+    "id": "26924742",
+    "cover_y": 5000,
+    "is_new": false
+}, {
+    "rate": "7.2",
+    "cover_x": 804,
+    "title": "中国有嘻哈",
+    "url": "https://movie.douban.com/subject/27037043/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2462922627.webp",
+    "id": "27037043",
+    "cover_y": 1432,
+    "is_new": false
+}, {
+    "rate": "9.5",
+    "cover_x": 769,
+    "title": "我们这一天 第一季",
+    "url": "https://movie.douban.com/subject/26794215/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2380810795.webp",
+    "id": "26794215",
+    "cover_y": 1000,
+    "is_new": false
+}, {
+    "rate": "9.5",
+    "cover_x": 1500,
+    "title": "毒枭 第三季",
+    "url": "https://movie.douban.com/subject/26869684/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2497942004.webp",
+    "id": "26869684",
+    "cover_y": 2222,
+    "is_new": true
+}, {
+    "rate": "8.8",
+    "cover_x": 2025,
+    "title": "追缉：炸弹客",
+    "url": "https://movie.douban.com/subject/26926437/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2482407749.webp",
+    "id": "26926437",
+    "cover_y": 3000,
+    "is_new": false
+}, {
+    "rate": "8.4",
+    "cover_x": 680,
+    "title": "下北泽之虎胆龙威",
+    "url": "https://movie.douban.com/subject/27054593/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2493129915.webp",
+    "id": "27054593",
+    "cover_y": 760,
+    "is_new": false
+}, {
+    "rate": "8.0",
+    "cover_x": 1242,
+    "title": "极限挑战 第三季",
+    "url": "https://movie.douban.com/subject/26830087/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2481248710.webp",
+    "id": "26830087",
+    "cover_y": 2208,
+    "is_new": false
+}, {
+    "rate": "6.0",
+    "cover_x": 1263,
+    "title": "中餐厅",
+    "url": "https://movie.douban.com/subject/27079327/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2492843054.webp",
+    "id": "27079327",
+    "cover_y": 2244,
+    "is_new": false
+}, {
+    "rate": "4.6",
+    "cover_x": 648,
+    "title": "人间至味是清欢",
+    "url": "https://movie.douban.com/subject/26842672/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2496096687.webp",
+    "id": "26842672",
+    "cover_y": 950,
+    "is_new": false
+}, {
+    "rate": "8.3",
+    "cover_x": 759,
+    "title": "温室里的加穗子",
+    "url": "https://movie.douban.com/subject/27062635/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2495327994.webp",
+    "id": "27062635",
+    "cover_y": 1063,
+    "is_new": false
+}, {
+    "rate": "9.4",
+    "cover_x": 2000,
+    "title": "孝利家民宿",
+    "url": "https://movie.douban.com/subject/27068899/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2493056093.webp",
+    "id": "27068899",
+    "cover_y": 2827,
+    "is_new": false
+}, {
+    "rate": "8.1",
+    "cover_x": 806,
+    "title": "大军师司马懿之军师联盟",
+    "url": "https://movie.douban.com/subject/26605881/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2468698085.webp",
+    "id": "26605881",
+    "cover_y": 1200,
+    "is_new": false
+}, {
+    "rate": "8.3",
+    "cover_x": 720,
+    "title": "十三邀 第二季",
+    "url": "https://movie.douban.com/subject/27125207/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2497754643.webp",
+    "id": "27125207",
+    "cover_y": 1280,
+    "is_new": true
+}, {
+    "rate": "8.4",
+    "cover_x": 800,
+    "title": "堕落街传奇",
+    "url": "https://movie.douban.com/subject/26427445/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2497203409.webp",
+    "id": "26427445",
+    "cover_y": 1185,
+    "is_new": true
+}, {
+    "rate": "8.2",
+    "cover_x": 1500,
+    "title": "黑钱胜地 第一季",
+    "url": "https://movie.douban.com/subject/26735549/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2492954903.webp",
+    "id": "26735549",
+    "cover_y": 2222,
+    "is_new": false
+}, {
+    "rate": "6.3",
+    "cover_x": 950,
+    "title": "我的前半生",
+    "url": "https://movie.douban.com/subject/26358696/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2478928137.webp",
+    "id": "26358696",
+    "cover_y": 1356,
+    "is_new": false
+}, {
+    "rate": "8.4",
+    "cover_x": 1500,
+    "title": "非典型孤独",
+    "url": "https://movie.douban.com/subject/26895435/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2493378226.webp",
+    "id": "26895435",
+    "cover_y": 2000,
+    "is_new": false
+}, {
+    "rate": "8.8",
+    "cover_x": 1418,
+    "title": "西部世界 第一季",
+    "url": "https://movie.douban.com/subject/2338055/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2403347953.webp",
+    "id": "2338055",
+    "cover_y": 2100,
+    "is_new": false
+}, {
+    "rate": "5.0",
+    "cover_x": 490,
+    "title": "守卫者·浮出水面",
+    "url": "https://movie.douban.com/subject/26369809/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2273175798.webp",
+    "id": "26369809",
+    "cover_y": 800,
+    "is_new": false
+}, {
+    "rate": "8.1",
+    "cover_x": 900,
+    "title": "名不虚传",
+    "url": "https://movie.douban.com/subject/27041537/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494190971.webp",
+    "id": "27041537",
+    "cover_y": 1301,
+    "is_new": false
+}, {
+    "rate": "6.1",
+    "cover_x": 645,
+    "title": "醉玲珑",
+    "url": "https://movie.douban.com/subject/26675795/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2448648049.webp",
+    "id": "26675795",
+    "cover_y": 900,
+    "is_new": false
+}, {
+    "rate": "9.0",
+    "cover_x": 783,
+    "title": "酷儿们",
+    "url": "https://movie.douban.com/subject/27032266/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494520916.webp",
+    "id": "27032266",
+    "cover_y": 1200,
+    "is_new": false
+}, {
+    "rate": "7.5",
+    "cover_x": 960,
+    "title": "同盟",
+    "url": "https://movie.douban.com/subject/26870087/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2495232672.webp",
+    "id": "26870087",
+    "cover_y": 1440,
+    "is_new": false
+}, {
+    "rate": "5.3",
+    "cover_x": 671,
+    "title": "鬼吹灯之黄皮子坟",
+    "url": "https://movie.douban.com/subject/26859982/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2493592159.webp",
+    "id": "26859982",
+    "cover_y": 950,
+    "is_new": false
+}, {
+    "rate": "8.9",
+    "cover_x": 400,
+    "title": "紧急救命3",
+    "url": "https://movie.douban.com/subject/26951886/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2493460455.webp",
+    "id": "26951886",
+    "cover_y": 600,
+    "is_new": false
+}, {
+    "rate": "9.2",
+    "cover_x": 900,
+    "title": "圆桌派 第二季",
+    "url": "https://movie.douban.com/subject/27046738/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2459865020.webp",
+    "id": "27046738",
+    "cover_y": 1200,
+    "is_new": false
+}, {
+    "rate": "8.3",
+    "cover_x": 1080,
+    "title": "无心法师",
+    "url": "https://movie.douban.com/subject/26298756/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2285023234.webp",
+    "id": "26298756",
+    "cover_y": 1640,
+    "is_new": false
+}, {
+    "rate": "9.2",
+    "cover_x": 1000,
+    "title": "信号",
+    "url": "https://movie.douban.com/subject/26310143/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2304228229.webp",
+    "id": "26310143",
+    "cover_y": 1446,
+    "is_new": false
+}]
