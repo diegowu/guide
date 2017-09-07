@@ -7,27 +7,20 @@ import {
 } from 'react-native';
 import {TabNavigator,TabBarBottom,TabBarTop} from 'react-navigation';
 import HomeTab from './HomeTab';
-import CarTab from './CarTab';
-import ProfileTab from './ProfileTab';
+import MsgTab from './MsgTab';
+import CollegeTab from './CollegeTab';
+import MineTab from './ProfileTab';
 
 const Tab = TabNavigator(
     {
-        Home:{
-            screen:HomeTab
-        },
-        Car:{
-            screen:CarTab
-        },
-        Profile:{
-            screen:ProfileTab,
-            navigationOptions:({navigation})=>({
-                tabBarLabel:'我的'
-            }),
-        }
+        Home: {screen: HomeTab},
+        Msg: {screen: MsgTab},
+        College: {screen: CollegeTab},
+        Mine: {screen: MineTab},
     },
     {
         // tabBarComponent:TabBarBottom,
-        // tabBarPosition:'top',
+        tabBarPosition:'bottom',
         swipeEnabled:true,
         animationEnabled:false,
         lazy:true,

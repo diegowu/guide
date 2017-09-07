@@ -14,7 +14,7 @@ import moves from './movie';
 import TabBar from './src/tab/TabBar';
 import styles from './src/asset/css/main';
 
-class ChatScreen extends Component {
+class MsgScreen extends Component {
     static navigationOptions = ({navigation}) => ({
         title: `内容页 ${navigation.state.params.user}`,
     });
@@ -51,14 +51,14 @@ class HomeScreen extends Component {
 
     render() {
         return (
-            <TabBar />
+            <TabBar/>
 
         );
     }
 
 }
 
-class DetailScreen extends Component {
+class CollegeScreen extends Component {
     static navigationOptions = {
         title: '详情页',
     };
@@ -75,12 +75,24 @@ class DetailScreen extends Component {
     }
 }
 
-const SimpleApp = StackNavigator({
+class MineScreen extends Component{
+
+    render(){
+
+        return (
+                <View>
+                        我的
+                </View>
+        );
+    }
+}
+
+const GuideApp = TabNavigator({
     Home: {screen: HomeScreen},
-    Chat: {screen: ChatScreen},
-    Detail: {screen: DetailScreen},
+    Msg: {screen: MsgScreen},
+    College: {screen: CollegeScreen},
+    Mine: {screen: MineScreen},
 });
 
 
-
-AppRegistry.registerComponent('react_guide', () => SimpleApp);
+AppRegistry.registerComponent('react_guide', () => HomeScreen);
