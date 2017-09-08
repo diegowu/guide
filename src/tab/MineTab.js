@@ -5,9 +5,11 @@ import {
 } from 'react-native';
 import styles from '../asset/css/main';
 
-export default class ProfileTab extends Component {
+export default class MineTab extends Component {
+    static navigationOptions = {
+        title: '我的',
+    };
     render() {
-        console.log('render');
         return(
             <View style={styles.container}>
                 <Text style={styles.red}>我的 ProfileTab</Text>

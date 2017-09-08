@@ -9,7 +9,7 @@ import {TabNavigator,TabBarBottom,TabBarTop} from 'react-navigation';
 import HomeTab from './HomeTab';
 import MsgTab from './MsgTab';
 import CollegeTab from './CollegeTab';
-import MineTab from './ProfileTab';
+import MineTab from './MineTab';
 
 const Tab = TabNavigator(
     {
@@ -24,8 +24,8 @@ const Tab = TabNavigator(
         swipeEnabled:true,
         animationEnabled:false,
         lazy:true,
-        initialRouteName:'Profile',
-        order:(['Home','Car','Profile']),
+        initialRouteName:'Home',
+        order:(['Home','Msg','College','Mine']),
         backBehavior:'none',
         tabBarOptions:{
             activeTintColor:'white',
@@ -36,8 +36,8 @@ const Tab = TabNavigator(
             labelStyle:{
                 fontSize:12
             },
-            indicatorStyle:'green',
-            pressColor:'#823453',
+            // indicatorStyle:'green',
+            // pressColor:'#823453',
             pressOpacity:0.8,
             scrollEnabled:true,
             tabStyle:{
@@ -45,7 +45,7 @@ const Tab = TabNavigator(
                 width:100
             },
             style:{
-                backgroundColor:'red'
+                // backgroundColor:'red'
             }
         }
     }

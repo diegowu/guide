@@ -2,27 +2,38 @@ import React, {Component} from 'react';
 import {
     View,
     Text,
-    StyleSheet
+    StyleSheet,
+    Button,
+    Alert
 } from 'react-native';
+import {TabNavigator,StackNavigator} from 'react-navigation';
+import Planlist from '../component/planlist';
+import Plandetail from '../pages/plansdetail';
+import styles from '../asset/css/main';
+
 
 export default class HomeTab extends Component {
     static navigationOptions = {
-        title: '放飞',
+        title: '首页',
     };
+
+
     render() {
-        console.log('render');
         return(
             <View style={styles.container}>
-                <Text>HomeTab发动啊发打算</Text>
+                <Planlist />
             </View>
         )
     }
+
 }
 
-const styles = StyleSheet.create({
-    container:{
-        flex:1,
-        justifyContent:'center',
-        alignItems:'center'
-    }
+const ModalStack = StackNavigator({
+    Home: {
+        screen: HomeTab,
+    },
+    Plansdetail: {
+        // path: 'people/:name',
+        screen: Plandetail,
+    },
 });

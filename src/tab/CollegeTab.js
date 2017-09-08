@@ -7,10 +7,9 @@ import {
 
 export default class CollegeTab extends Component {
     static navigationOptions = {
-        title: '放飞',
+        title: '学院',
     };
     render() {
-        console.log('render');
         return(
             <View style={styles.container}>
                 <Text>HomeTab发动啊发打算</Text>

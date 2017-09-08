@@ -7,7 +7,7 @@ import {
 
 export default class MsgTab extends Component {
     static navigationOptions = {
-        title: '放飞',
+        title: '消息',
     };
     render() {
         console.log('render');
